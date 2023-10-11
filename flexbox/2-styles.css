@@ -1,0 +1,65 @@
+/* Styling for the body of the web page */
+.body-class {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+/* Styling for the header */
+.header-class {
+    background-color: #333;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Styling for the main title in the header */
+.title-class {
+    color: white;
+}
+
+/* Styling for the main content area */
+.main-class {
+    padding: 2rem;
+}
+
+/* Styling for the paragraph in the main content area */
+.paragraph-class {
+    color: #555;
+}
+
+/* Styling for the footer */
+.footer-class {
+    background-color: #333;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+/* Styling for the text in the footer */
+.footer-text-class {
+    color: white;
+}
+
+/* Section Latest news ============================= */
+.section-latest-news .row {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+/*** 4. CARD ***/
+.card {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-content {
+    color: #555;
+}
+
